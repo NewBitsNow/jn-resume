@@ -56,7 +56,7 @@ Known for bridging business and technical strategy, leading cross-functional tea
 ---
 
 ### Amazon Web Services (AWS)  
-**Solutions Architect**  
+**Cloud Solutions Architect**  
 *Feb 2022 – Sep 2022*
 
 - Served as trusted cloud advisor to the U.S. Department of Veterans Affairs  
