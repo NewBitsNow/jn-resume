@@ -4,7 +4,7 @@
 
 ## Enterprise Cloud Architect | Principal-Level | AWS • Azure • GCP
 
-Enterprise Cloud Architect with 20+ years of experience leading large-scale cloud transformation initiatives across highly regulated public sector environments. Proven ability to influence executive strategy, design hybrid and multi-cloud architectures, and drive enterprise adoption at scale. Former AWS Solutions Architect with deep expertise in cloud security, compliance (FedRAMP, HIPAA, CJIS), and modern infrastructure design across AWS, Azure, and GCP.
+Enterprise Cloud Architect with 20+ years of experience leading large-scale cloud transformation initiatives across highly regulated public sector environments. Deep understanding of public sector and proven ability to influence executive strategy, design hybrid and multi-cloud architectures, and drive enterprise adoption at scale. Former AWS Solutions Architect with deep expertise in cloud security, compliance (FedRAMP, HIPAA, CJIS), and modern infrastructure design across AWS, Azure, and GCP.
 
 Known for bridging business and technical strategy, leading cross-functional teams, and delivering scalable, secure cloud solutions that align with long-term organizational goals.
 
