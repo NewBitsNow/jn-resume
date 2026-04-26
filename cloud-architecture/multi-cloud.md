@@ -1,6 +1,6 @@
 # Multi-Cloud Reference Architecture
 
-This repository outlines a multi-cloud architecture and adoption framework designed for large-scale, regulated environments.
+This repository outlines a multi-cloud architecture and adoption framework designed for large-scale, federated environments.
 
 ## Scope
 - Hybrid and multi-cloud architecture (AWS, Azure, GCP)
@@ -21,4 +21,4 @@ This repository outlines a multi-cloud architecture and adoption framework desig
 - Operating Model
 
 ## Context
-This work is based on real-world experience designing enterprise cloud strategy in complex public sector environments. All content has been generalized to remove sensitive or proprietary information.
+This work is based on real-world experience designing enterprise cloud strategy in complex public sector environments. 
