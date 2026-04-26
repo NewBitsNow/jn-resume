@@ -28,7 +28,7 @@ Known for bridging business and technical strategy, leading cross-functional tea
 ## Professional Experience
 
 ### Washington Technology Solutions  
-**Enterprise Cloud Architect**  
+**Principal Enterprise Cloud Architect**  
 *May 2023 – Present*
 
 - Lead development and execution of statewide hybrid and multi-cloud strategy, driving adoption across multiple agencies and enterprise platforms  
