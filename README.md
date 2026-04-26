@@ -88,7 +88,7 @@ Known for bridging business and technical strategy, leading cross-functional tea
 - Designed hybrid cloud architectures supporting data analytics and enterprise applications  
 - Implemented security controls and risk mitigation strategies  
 - Defined future-state cloud strategy and infrastructure design  
-- Designed IP addressing and routing strategies for hybrid environments  
+- Designed complex IP addressing and routing strategies for hybrid environments  
 
 ---
 
@@ -115,7 +115,7 @@ Known for bridging business and technical strategy, leading cross-functional tea
 ---
 
 ### Washington State Dept. of Social and Health Services  
-**IT Specialist / Network Engineering Leadership**  
+**Network and System Engineer / Architect**  
 *2012 – 2017*
 
 - Led enterprise network modernization initiatives including VoIP and collaboration platforms  
