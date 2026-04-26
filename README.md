@@ -1,8 +1,4 @@
-# Jason Niemi  
-Olympia, WA  
-📞 360-878-1566  
-✉️ niemijl@gmail.com  
-🔗 [LinkedIn URL]
+# Jason Niemi (IT Professional)
 
 ---
 
